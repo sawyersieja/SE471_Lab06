@@ -1,5 +1,5 @@
 //NotificationCollectionIF.java
-public class NoticiationCollectionIF {
+public class NotificationCollectionIF {
     
     public NotificationIteratorIF createIterator(){
         
