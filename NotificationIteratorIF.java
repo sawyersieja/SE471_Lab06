@@ -1,0 +1,4 @@
+//NotificationIteratorIF.java
+interface NotificationIteratorIF {
+    
+}

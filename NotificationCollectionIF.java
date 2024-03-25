@@ -1,0 +1,4 @@
+//NotificationCollectionIF.java
+interface NotificationCollectionIF {
+    
+}
