@@ -1,5 +1,5 @@
 //NotificationIteratorIF.java
-public class NotificationIteratorIF {
+interface NotificationIteratorIF {
     
     public boolean hasNext(){
         return true;
