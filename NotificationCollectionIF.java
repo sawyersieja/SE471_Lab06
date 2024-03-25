@@ -1,4 +1,10 @@
 //NotificationCollectionIF.java
-interface NotificationCollectionIF {
+public class NoticiationCollectionIF {
     
+    public NotificationIteratorIF createIterator(){
+        
+        return null;
+
+    }
+
 }
