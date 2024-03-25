@@ -1,5 +1,5 @@
 //FileAttachment.java
-public class FileAttachment {
+public class FileAttachment extends Attachment {
     
     private int size_Byte;
 

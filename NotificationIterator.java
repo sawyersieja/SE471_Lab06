@@ -1,4 +1,4 @@
 //NotificationIterator.java
-public class NotificationIterator {
+public class NotificationIterator implements NotificationIteratorIF{
     
 }

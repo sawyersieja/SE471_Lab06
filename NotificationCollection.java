@@ -1,5 +1,5 @@
 //NotificationCollection.java
-public class NotificationCollection {
+public class NotificationCollection implements NotificationCollectionIF{
     
     public Notification getItem(int index){
         return null;
