@@ -4,6 +4,7 @@ public class FileAttachment extends Attachment {
     private int size_Byte;
 
     public String toString(){ 
-        return null;
+        String sizeByteString = Integer.toString(size_Byte);
+        return sizeByteString;
     }
 }
