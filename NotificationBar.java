@@ -1,6 +1,10 @@
 //NotificationBar.java
 public class NotificationBar {
     
+    private final NotificationCollectionIF notifications;
+    public NotificationBar(NotificationCollectionIF notifs) {
+        notifications = notifs;
+    }
     public void printNotifications()
     {
         NotificationIteratorIF iterator = notifications.createIterator();
