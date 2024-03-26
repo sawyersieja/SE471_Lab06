@@ -1,11 +1,5 @@
 //NotificationIteratorIF.java
 interface NotificationIteratorIF {
-    
-    public boolean hasNext(){
-        return true;
-    }
-
-    public Notification next(){
-        return null;
-    }
+    public boolean hasNext();
+    public Notification next();
 }
